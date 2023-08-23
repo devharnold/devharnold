@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @devharnold
 - 👀 I’m interested in Python, React and Javascript
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on open source projects
+- 💞️ I’m looking forward to collaborate on open source projects
 - 📫 How to reach me - email - devharnold@gmail.com
 
 <!---
