@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @devharnold
-- 👀 I’m interested in Python, JavaScript and some bit of Data Engineering
-- 🌱 I’m currently learning Python and DevOps
+- 👀 My Strong languages are Python, JavaScript and SQL
+- 🌱 I’m currently learning Python and JavaScript 
 - 💞️ I’m looking forward to collaborate on open source projects
-- 📫 How to reach me - email - devharnold@gmail.com
+- 📫 How to reach me - email - henryarnoldme@gmail.com
 
 <!---
 devharnold/devharnold is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
