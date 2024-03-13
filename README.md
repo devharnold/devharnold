@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @devharnold
-- 👀 My Strong languages are Python, JavaScript and SQL
-- 🌱 I’m currently learning Python and JavaScript 
+- 👀 Let's talk Python, JavaScript and SQL
+- 🌱 I’m currently learning Python and JavaScript(Back end Software Engineering. 
 - 💞️ I’m looking forward to collaborate on open source projects
 - 📫 How to reach me - email - henryarnoldme@gmail.com
 
