@@ -1,4 +1,11 @@
-**Project Showcase**
+👋 Hello, I'm Henry Arnold.
+👨🏾‍💻 Backend Software Engineer and a lifelong student.
+🌱 Growing my skills day by day as I write code 😉
+🫣 Interested in pivoting to the field of data.
+🫱🏾‍🫲🏽 Ready to collaborate on open source projects
+
+
+**Showcase**
 
 ### Overview
 This repository showcases various projects and tools developed by [Your Name]. These projects demonstrate proficiency in JavaScript, Python, Redis, MySQL, Docker, Node.js, and Flask.
