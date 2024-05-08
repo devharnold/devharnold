@@ -8,10 +8,9 @@
 **Showcase**
 
 ### Overview
-This repository showcases various projects and tools developed by [Your Name]. These projects demonstrate proficiency in JavaScript, Python, Redis, MySQL, Docker, Node.js, and Flask.
+This is my github profile and some of the things I do to deliver code
 
 ### Tools and Technologies
-Certainly, here are the logos with links added to each language's documentation:
 
 - **JavaScript**: [![JavaScript](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/50px-JavaScript-logo.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - **Python**: [![Python](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/50px-Python-logo-notext.svg.png)](https://docs.python.org/3/)
