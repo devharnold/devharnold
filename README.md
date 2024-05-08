@@ -4,9 +4,6 @@
 This repository showcases various projects and tools developed by [Your Name]. These projects demonstrate proficiency in JavaScript, Python, Redis, MySQL, Docker, Node.js, and Flask.
 
 ### Tools and Technologies
-Sure, I'll provide smaller-sized logos for each tool.
-
-### Tools and Technologies
 - **JavaScript**:
   ![JavaScript](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/50px-JavaScript-logo.png)
 - **Python**:
