@@ -11,20 +11,15 @@
 This repository showcases various projects and tools developed by [Your Name]. These projects demonstrate proficiency in JavaScript, Python, Redis, MySQL, Docker, Node.js, and Flask.
 
 ### Tools and Technologies
-- **JavaScript**:
-  ![JavaScript](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/50px-JavaScript-logo.png)
-- **Python**:
-  ![Python](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/50px-Python-logo-notext.svg.png)
-- **Redis**:
-  ![Redis](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Redis_Logo.svg/50px-Redis_Logo.svg.png)
-- **MySQL**:
-  ![MySQL](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/MySQL_Logo.png/50px-MySQL_Logo.png)
-- **Docker**:
-  ![Docker](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Docker_%28container_engine%29_logo.svg/50px-Docker_%28container_engine%29_logo.svg.png)
-- **Node.js**:
-  ![Node.js](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/50px-Node.js_logo.svg.png)
-- **Flask**:
-  ![Flask](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flask_logo.svg/50px-Flask_logo.svg.png)
+Certainly, here are the logos with links added to each language's documentation:
+
+- **JavaScript**: [![JavaScript](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/50px-JavaScript-logo.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- **Python**: [![Python](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/50px-Python-logo-notext.svg.png)](https://docs.python.org/3/)
+- **Redis**: [![Redis](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Redis_Logo.svg/50px-Redis_Logo.svg.png)](https://redis.io/documentation)
+- **MySQL**: [![MySQL](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/MySQL_Logo.png/50px-MySQL_Logo.png)](https://dev.mysql.com/doc/)
+- **Docker**: [![Docker](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Docker_%28container_engine%29_logo.svg/50px-Docker_%28container_engine%29_logo.svg.png)](https://docs.docker.com/)
+- **Node.js**: [![Node.js](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/50px-Node.js_logo.svg.png)](https://nodejs.org/en/docs/)
+- **Flask**: [![Flask](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flask_logo.svg/50px-Flask_logo.svg.png)](https://flask.palletsprojects.com/en/2.0.x/)
 
 
 ### Social Media
