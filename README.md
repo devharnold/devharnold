@@ -1,7 +1,7 @@
 - 👋 Hello, I'm Henry Arnold.
 - 👨🏾‍💻 Backend Software Development Engineer and a lifelong student.
 - 🌱 Growing my skills day by day as I write code 😉
-- 🫣 Data and Fintech Enthusiast.
+- 🫣 Data Engineering and Fintech Enthusiast.
 - 🫱🏾‍🫲🏽 Ready to collaborate on open source projects
 
 
