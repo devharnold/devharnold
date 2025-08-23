@@ -1,6 +1,7 @@
 <!-- # 💫 About Me: -->
 - 👋 <br>
-- 👨🏾‍💻 Backend Software Engineer.
+- 👨🏾‍💻 Backend.  
+- ☁️ Cloud and Data Engineering Enthusiast.  
 
 
 <!-- ## 🌐 Socials:
